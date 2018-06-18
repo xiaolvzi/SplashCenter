@@ -1,0 +1,1 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"><item android:drawable="@color/orangey_red" /><item android:gravity="center"><bitmap android:src="@drawable/dapao" android:gravity="center" /></item></layer-list>
